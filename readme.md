@@ -34,10 +34,6 @@ Passionate about creating exceptional web experiences through clean code and tho
 - **UI/UX Implementation** — Converting designs into pixel-perfect code
 - **Performance Optimization** — Ensuring fast loading and smooth user experiences
 
-## GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=valasellis&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
-
 ## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=valasellis&theme=dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
